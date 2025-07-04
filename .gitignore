@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+*.egg-info/
+.installed.cfg
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+/media/
+/static/
+
+# IDEs and editors
+.idea/                  # PyCharm
+.vscode/                # VS Code
+*.sublime-project
+*.sublime-workspace
+.DS_Store               # macOS
+Thumbs.db               # Windows
+
+# Environment variables and sensitive data
+*.env                   
+.flaskenv
+.venv/
+env/
+venv/
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+
+# OS generated files
+.DS_Store
+.Trashes
+ehthumbs.db
+Icon?
+*.stackdump
